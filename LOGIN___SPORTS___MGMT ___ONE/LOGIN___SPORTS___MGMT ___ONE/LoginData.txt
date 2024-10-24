@@ -1,5 +1,0 @@
-﻿Username: your_username
-Password: your_password
-Name: John Doe        // your real name here
-OrgName: SNHU Sports  // your organization name here
-ProfilePicturePath: C:\Users\John\Pictures\profilepic.jpg  // Path to your picture
